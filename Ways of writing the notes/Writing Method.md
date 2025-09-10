@@ -1,0 +1,2 @@
+[有关在 GitHub 上编写的快速入门](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)  
+[关于在 GitHub 上编写和设置格式(使用Markdown)](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github)   
