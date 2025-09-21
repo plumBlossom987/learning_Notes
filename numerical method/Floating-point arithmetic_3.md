@@ -47,7 +47,7 @@ Possible Explanations:
 5.1The partial sum eventually overflows 
 5.2 1/k eventually underflows
 5.3 Partial sum ceases to change once $1 / k$ becomes negligible relative to the partial sum:  
-$\frac1 k \lesssim\varepsilon_{\mathrm{n a c h}} \cdot\sum_{i=1}^{k-1} \frac1 i.$  
+$\frac1 k \lesssim\varepsilon_{\mathrm{m a c h}} \cdot\sum_{i=1}^{k-1} \frac1 i.$  
 
 6.ldeally, $x\circledast y=\mathrm{f l} ( x * y )$ , i.e., floating-point arithmetic operations produce correctly rounded results.  
 IEEE-Standard 754:  
